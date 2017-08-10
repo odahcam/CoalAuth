@@ -1,0 +1,23 @@
+{
+    "name": "odahcam/coal-auth",
+    "description": "RBAC/ACL library for PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luiz Machado",
+            "email": "machado@odahcam.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0",
+        "phpmailer/phpmailer": "1.x",
+        "doctrine/doctrine": "2.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "CoalAuth": "src/"
+        }
+    }
+}
