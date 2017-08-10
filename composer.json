@@ -1,5 +1,5 @@
 {
-    "name": "odahcam/coal-auth",
+    "name": "odahcam/auth",
     "description": "RBAC/ACL library for PHP.",
     "type": "library",
     "license": "MIT",
