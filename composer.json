@@ -11,9 +11,9 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.3.0",
-        "phpmailer/phpmailer": "1.x",
-        "doctrine/doctrine": "2.x"
+        "php": ">=5.6",
+        "phpmailer/phpmailer": "^6.0",
+        "doctrine/orm": "^2.5"
     },
     "autoload": {
         "psr-0": {
