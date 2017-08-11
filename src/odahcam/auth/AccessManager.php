@@ -1,6 +1,6 @@
 <?php
 
-namespace \CoalAuth;
+namespace \Odahcam\Auth;
 
 class AccessManager
 {
@@ -16,6 +16,10 @@ class AccessManager
 
     public function logout(User $user)
     {
-        
+
     }
+
+    // register(User $user)
+
+    // disable(User $user->id)
 }
